@@ -176,13 +176,13 @@ CREATE TABLE `Konsultasi` (
 --
 
 INSERT INTO `Konsultasi` (`id_konsultasi`, `masalah`, `total_harga`, `tanggal_konsultasi`, `tanggal_pembayaran`, `metode_pembayaran`, `status_pembayaran`, `id_dokter`, `id_pasien`) VALUES
-(1, 'Sakit Kepala', 349000.00, '2024-06-01 10:00:00', '2024-06-01 10:30:00', 'CASH', 'LUNAS', 11, 1),
-(2, 'Batuk dan Pilek', 510000.00, '2024-06-02 11:00:00', NULL, NULL, 'BELUM LUNAS', 12, 2),
-(3, 'Demam Tinggi', 200000.00, '2024-06-03 09:00:00', '2024-06-03 09:30:00', 'DEBIT', 'LUNAS', 11, 3),
+(1, 'Sakit Kepala', 349000.00, '2024-07-01 10:00:00', '2024-07-01 10:30:00', 'CASH', 'LUNAS', 11, 1),
+(2, 'Batuk dan Pilek', 510000.00, '2024-07-02 11:00:00', NULL, NULL, 'BELUM LUNAS', 12, 2),
+(3, 'Demam Tinggi', 200000.00, '2024-07-03 09:00:00', '2024-07-03 09:30:00', 'DEBIT', 'LUNAS', 11, 3),
 (4, 'Nyeri Perut', 450000.00, '2024-06-04 14:00:00', NULL, NULL, 'BELUM LUNAS', 1, 4),
-(5, 'Gatal-gatal', 0.00, '2024-06-05 15:30:00', '2024-06-05 16:00:00', 'QRIS', 'LUNAS', 12, 5),
-(6, 'Sakit Gigi', 0.00, '2024-06-06 18:00:00', '2024-06-06 08:30:00', 'CASH', 'LUNAS', 11, 6),
-(7, 'Alergi Makanan', 50000.00, '2024-06-07 05:00:00', NULL, NULL, 'BELUM LUNAS', 1, 7),
+(5, 'Gatal-gatal', 0.00, '2024-07-05 15:30:00', '2024-07-05 16:00:00', 'QRIS', 'LUNAS', 12, 5),
+(6, 'Sakit Gigi', 0.00, '2024-07-06 18:00:00', '2024-07-06 08:30:00', 'CASH', 'LUNAS', 11, 6),
+(7, 'Alergi Makanan', 50000.00, '2024-07-07 05:00:00', NULL, NULL, 'BELUM LUNAS', 1, 7),
 (8, 'Infeksi Telinga', 525000.00, '2024-06-09 13:00:00', '2024-06-08 12:30:00', 'DEBIT', 'LUNAS', 12, 8),
 (9, 'Gangguan Tidur', 170000.00, '2024-06-09 23:00:00', NULL, NULL, 'BELUM LUNAS', 11, 9),
 (10, 'Kontrol Diabetes', 465000.00, '2024-06-10 06:00:00', '2024-06-10 11:30:00', 'QRIS', 'LUNAS', 1, 10),
