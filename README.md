@@ -1,4 +1,4 @@
-# Clinical Information System (Database Design) — by Dodevca
+# Clinical Information System (Database Design)
 
 ## About This Project
 A structured SQL database schema for a Clinical Information System designed to manage consultations, treatments, laboratory tests, products, and payment processing in a clinic. This project includes comprehensive table structures, stored procedures, functions, triggers, and initial data population to simulate real-world clinical workflows.
