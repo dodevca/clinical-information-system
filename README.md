@@ -18,7 +18,7 @@ A structured SQL database schema for a Clinical Information System designed to m
 - Predefined Views for easier reporting (consultation details, unpaid consultations, etc.).
 - Sample dataset to simulate clinic operations.
 
-## Live Demo (optional)
+## Live Demo
 This project is a database-only design. You can import the SQL dump to a local MySQL/MariaDB server to explore.
 
 ## Installation and Usage (Local Setup)
